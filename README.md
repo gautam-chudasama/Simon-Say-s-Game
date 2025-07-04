@@ -72,3 +72,6 @@ Inspired by the classic **Simon Says** game. A great way to practice **DOM manip
 ## 📬 Contact
 
 Created by [Gautam Chudasama](https://github.com/gautam-chudasama)
+
+Email - gautam.chudasama@outlook.com
+
