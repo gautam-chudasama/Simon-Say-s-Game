@@ -148,7 +148,7 @@ This project demonstrates:
 
 **Gautam Chudasama** - gautam.chudasama@outlook.com
 
-**Project Link**: [https://github.com/your-username/simon-says-game](https://github.com/your-username/simon-says-game)
+**Project Link**: https://github.com/gautam-chudasama/Simon-Say-s-Game.git
 
 ---
 
